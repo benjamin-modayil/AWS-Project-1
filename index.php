@@ -28,8 +28,8 @@ background-size: 100% 100%">
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
-$servername = "sudipproject-rds.cinsyk8qt8ou.us-west-2.rds.amazonaws.com";
-$username = "admin";
+$servername = "intel.cjtkvbdect1d.ap-south-1.rds.amazonaws.com";
+$username = "intel";
 $password = "intel123";
 $db = "intel";
 // Create connection
